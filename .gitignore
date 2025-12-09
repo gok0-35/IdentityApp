@@ -1,0 +1,48 @@
+## Build çıktı klasörleri
+bin/
+obj/
+out/
+
+## Kullanıcı özel dosyaları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / VSCode
+.idea/
+.vscode/
+*.code-workspace
+
+## Paketler
+packages/
+*.nupkg
+
+## Log dosyaları
+*.log
+
+## ASP.NET Core
+wwwroot/lib/
+wwwroot/node_modules/
+
+## Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+## Sistem dosyaları
+[Dd]esktop.ini
+[Tt]humbs.db
+*.DS_Store
+
+## EF Core migration snapshot cache
+*.dbmdl
+
+## Publish çıktı dosyaları
+publish/
+*.pubxml
+*.pubxml.user
+
+## Sentry, JetBrains, diğer tool ayarları
+.sentry/
+.ReSharper*/
