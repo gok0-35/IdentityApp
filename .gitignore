@@ -46,3 +46,7 @@ publish/
 ## Sentry, JetBrains, diğer tool ayarları
 .sentry/
 .ReSharper*/
+
+
+appsettings.Development.json
+appsettings.*.json
